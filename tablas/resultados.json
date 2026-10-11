@@ -1,0 +1,335 @@
+{
+ "filas_original": 268,
+ "cols_original": 13,
+ "nulos_original": {
+  "fecha_pedido": 5,
+  "nombre_cliente": 5,
+  "ciudad": 13,
+  "talla": 10,
+  "metodo_pago": 8,
+  "calificacion": 22
+ },
+ "duplicados": 8,
+ "variantes_ciudad_original": 21,
+ "calif_fuera_rango": 3,
+ "precio_negativo": 2,
+ "filas_sin_fecha": 5,
+ "outliers_iqr": {
+  "precio_unitario": {
+   "lim_inf": -43000.0,
+   "lim_sup": 197000.0,
+   "n_outliers": 5
+  },
+  "cantidad": {
+   "lim_inf": -0.5,
+   "lim_sup": 3.5,
+   "n_outliers": 3
+  },
+  "tiempo_entrega_dias": {
+   "lim_inf": 0.5,
+   "lim_sup": 4.5,
+   "n_outliers": 14
+  }
+ },
+ "filas_prep": 255,
+ "cols_prep": 30,
+ "fecha_min": "2024-11-01",
+ "fecha_max": "2025-03-31",
+ "ingresos_total": 34140000.0,
+ "ingreso_por_producto": {
+  "Camiseta Boxy Fit": 4596000,
+  "Camiseta Oversize": 6079000,
+  "Gorra Streetwear": 4950000,
+  "Hoodie ARGCOL": 18515000
+ },
+ "pedidos_por_producto": {
+  "Gorra Streetwear": 81,
+  "Hoodie ARGCOL": 67,
+  "Camiseta Boxy Fit": 59,
+  "Camiseta Oversize": 48
+ },
+ "pedidos_por_canal": {
+  "Sitio web": 89,
+  "Instagram": 85,
+  "WhatsApp": 81
+ },
+ "pedidos_por_ciudad": {
+  "Bogota": 59,
+  "Medellin": 50,
+  "Cali": 49,
+  "Cartagena": 43,
+  "Barranquilla": 41,
+  "No registrado": 13
+ },
+ "pedidos_por_mes": {
+  "2024-11": 39,
+  "2024-12": 52,
+  "2025-01": 49,
+  "2025-02": 53,
+  "2025-03": 62
+ },
+ "calif_media": 4.396078431372549,
+ "entrega_media": 2.784313725490196,
+ "dist_objetivo": {
+  "0": 0.569,
+  "1": 0.431
+ },
+ "n_train": 204,
+ "n_test": 51,
+ "n_features": 16,
+ "lr": {
+  "accuracy": 0.5686274509803921,
+  "precision": 0.5,
+  "recall": 0.4090909090909091,
+  "f1": 0.45
+ },
+ "baseline_accuracy": 0.5686274509803921,
+ "cm": [
+  [
+   20,
+   9
+  ],
+  [
+   13,
+   9
+  ]
+ ],
+ "cv_lr_acc": [
+  0.5882352941176471,
+  0.5294117647058824,
+  0.47058823529411764,
+  0.5686274509803921,
+  0.49019607843137253
+ ],
+ "cv_base_acc": [
+  0.5686274509803921,
+  0.5686274509803921,
+  0.5686274509803921,
+  0.5686274509803921,
+  0.5686274509803921
+ ],
+ "mayoristas": [
+  40,
+  60,
+  25
+ ],
+ "n_cluster": 252,
+ "desc_vars": {
+  "cantidad": {
+   "count": 252.0,
+   "mean": 1.29,
+   "std": 0.51,
+   "min": 1.0,
+   "25%": 1.0,
+   "50%": 1.0,
+   "75%": 2.0,
+   "max": 3.0
+  },
+  "precio_unitario": {
+   "count": 252.0,
+   "mean": 69742.06,
+   "std": 31781.39,
+   "min": 42000.0,
+   "25%": 47000.0,
+   "50%": 57000.0,
+   "75%": 107000.0,
+   "max": 197000.0
+  },
+  "tiempo_entrega_dias": {
+   "count": 252.0,
+   "mean": 2.79,
+   "std": 1.31,
+   "min": 1.0,
+   "25%": 2.0,
+   "50%": 3.0,
+   "75%": 3.0,
+   "max": 10.0
+  },
+  "calificacion": {
+   "count": 252.0,
+   "mean": 4.41,
+   "std": 0.87,
+   "min": 1.0,
+   "25%": 4.0,
+   "50%": 5.0,
+   "75%": 5.0,
+   "max": 5.0
+  }
+ },
+ "seleccion_k": [
+  {
+   "k": 2,
+   "inercia": 777.351,
+   "silueta": 0.338,
+   "grupo_min": 65
+  },
+  {
+   "k": 3,
+   "inercia": 614.406,
+   "silueta": 0.361,
+   "grupo_min": 50
+  },
+  {
+   "k": 4,
+   "inercia": 486.05,
+   "silueta": 0.384,
+   "grupo_min": 31
+  },
+  {
+   "k": 5,
+   "inercia": 402.586,
+   "silueta": 0.398,
+   "grupo_min": 3
+  },
+  {
+   "k": 6,
+   "inercia": 351.955,
+   "silueta": 0.336,
+   "grupo_min": 3
+  },
+  {
+   "k": 7,
+   "inercia": 304.868,
+   "silueta": 0.363,
+   "grupo_min": 3
+  }
+ ],
+ "silueta_k4": 0.3836068680675958,
+ "tam_clusters": [
+  57,
+  42,
+  122,
+  31
+ ],
+ "perfil": [
+  {
+   "grupo": "Estándar",
+   "cantidad": 1.0,
+   "precio_unitario": 52680.33,
+   "tiempo_entrega_dias": 2.74,
+   "calificacion": 4.74,
+   "pedidos": 122,
+   "pct_ingresos": 28.5,
+   "pct_entrega_rapida": 41.8
+  },
+  {
+   "grupo": "Premium",
+   "cantidad": 1.02,
+   "precio_unitario": 121190.48,
+   "tiempo_entrega_dias": 2.5,
+   "calificacion": 4.52,
+   "pedidos": 42,
+   "pct_ingresos": 23.4,
+   "pct_entrega_rapida": 54.8
+  },
+  {
+   "grupo": "Multiunidad",
+   "cantidad": 2.12,
+   "precio_unitario": 70473.68,
+   "tiempo_entrega_dias": 2.44,
+   "calificacion": 4.54,
+   "pedidos": 57,
+   "pct_ingresos": 37.5,
+   "pct_entrega_rapida": 50.9
+  },
+  {
+   "grupo": "Entrega lenta",
+   "cantidad": 1.23,
+   "precio_unitario": 65838.71,
+   "tiempo_entrega_dias": 4.0,
+   "calificacion": 2.71,
+   "pedidos": 31,
+   "pct_ingresos": 10.6,
+   "pct_entrega_rapida": 16.1
+  }
+ ],
+ "pca_var": [
+  0.28,
+  0.262
+ ],
+ "pca_cargas": {
+  "PC1": {
+   "cantidad": -0.49,
+   "precio_unitario": -0.01,
+   "tiempo_entrega_dias": 0.76,
+   "calificacion": -0.42
+  },
+  "PC2": {
+   "cantidad": -0.68,
+   "precio_unitario": 0.06,
+   "tiempo_entrega_dias": -0.03,
+   "calificacion": 0.73
+  }
+ },
+ "composicion_producto": {
+  "Estándar": {
+   "Camiseta Boxy Fit": 36.1,
+   "Camiseta Oversize": 23.0,
+   "Gorra Streetwear": 40.2,
+   "Hoodie ARGCOL": 0.8
+  },
+  "Premium": {
+   "Camiseta Boxy Fit": 4.8,
+   "Camiseta Oversize": 2.4,
+   "Gorra Streetwear": 2.4,
+   "Hoodie ARGCOL": 90.5
+  },
+  "Multiunidad": {
+   "Camiseta Boxy Fit": 14.0,
+   "Camiseta Oversize": 21.1,
+   "Gorra Streetwear": 33.3,
+   "Hoodie ARGCOL": 31.6
+  },
+  "Entrega lenta": {
+   "Camiseta Boxy Fit": 16.1,
+   "Camiseta Oversize": 19.4,
+   "Gorra Streetwear": 38.7,
+   "Hoodie ARGCOL": 25.8
+  }
+ },
+ "pct_lenta_global": 12.3,
+ "chi2": {
+  "canal": {
+   "p": 0.393,
+   "pct_lenta": {
+    "Instagram": 9.4,
+    "Sitio web": 11.5,
+    "WhatsApp": 16.2
+   }
+  },
+  "ciudad": {
+   "p": 0.719,
+   "pct_lenta": {
+    "Barranquilla": 12.5,
+    "Bogota": 8.5,
+    "Cali": 10.4,
+    "Cartagena": 14.3,
+    "Medellin": 18.0,
+    "No registrado": 7.7
+   }
+  },
+  "mes_pedido": {
+   "p": 0.238,
+   "pct_lenta": {
+    "1": 16.7,
+    "2": 7.5,
+    "3": 6.6,
+    "11": 15.4,
+    "12": 17.6
+   }
+  }
+ },
+ "ari": [
+  0.979,
+  0.995,
+  0.979,
+  1.0
+ ],
+ "tam_con_mayoristas": [
+  61,
+  149,
+  43,
+  2
+ ],
+ "ari_minmax": 0.961
+}

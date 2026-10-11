@@ -1,0 +1,269 @@
+id_pedido,fecha_pedido,nombre_cliente,ciudad,talla,color,producto,cantidad,precio_unitario,metodo_pago,canal,calificacion,tiempo_entrega_dias
+1,09-03-2025,Kevin García,barranquilla,S,Beige,Gorra Streetwear,2,47000,Efectivo,whatsapp,5.0,2
+2,2025-03-09,Juan Gómez,Medellin ,l,Verde militar,Camiseta Boxy Fit,1,55000,nequi,INSTAGRAM,5.0,1
+3,2025-03-21,David Gómez,cartagena,XL,Verde militar,Gorra Streetwear,2,42000,efectivo,Sitio Web,4.0,4
+4,2025-03-21,Julián Gómez,Medellín,S,Beige,Hoodie ARGCOL,1,115000,efectivo,instagram,3.0,4
+5,11/01/2025,Valentina Pérez,,s,Blanco,Camiseta Boxy Fit,1,63000,nequi,WHATSAPP,,3
+6,2024-11-21,Kevin Gómez,barranquilla,s,Verde militar,Gorra Streetwear,2,45000,Transferencia,Instagram,4.0,3
+7,07-12-2024,Isabella Ramírez,Bogotá D.C.,M,Gris,Gorra Streetwear,1,47000,Efectivo,INSTAGRAM,3.0,2
+8,22/02/2025,Laura Gómez,,S,Blanco,Camiseta Oversize,1,60000,NEQUI,WHATSAPP,,2
+9,18-03-2025,Juan Torres,CALI,,Beige,Hoodie ARGCOL,1,110000,NEQUI,Sitio web,4.0,3
+10,18-02-2025,Sebastián García,Bogota D.C.,Large,Negro,Camiseta Oversize,1,60000,efectivo,instagram,5.0,2
+11,2024-11-03,Santiago Ramírez,Bogotá D.C.,XL,Beige,Gorra Streetwear,1,42000,Efectivo,instagram,4.0,4
+12,13/03/2025,Isabella Pérez,MEDELLIN,Xl,Beige,Camiseta Boxy Fit,1,55000,nequi,whatsapp,5.0,2
+13,27-03-2025,Julián Ramírez,CALI,m,Gris,Hoodie ARGCOL,1,112000,Efectivo,instagram,4.0,4
+14,08/12/2024,Julián Gómez,BARRANQUILLA,m,Gris,Camiseta Oversize,2,57000,transferencia,Sitio web,4.0,3
+15,19/02/2025,Isabella Rodríguez,cartagena,Xl,Gris,Camiseta Oversize,1,55000,efectivo,sitio web,4.0,2
+16,2024-11-04,Valentina Pérez,CALI,,Blanco,Camiseta Oversize,1,55000,NEQUI,Sitio Web,5.0,3
+17,16-12-2024,Sara Gómez,Cartagena ,Xl,Negro,Hoodie ARGCOL,1,112000,Nequi,Sitio Web,3.0,2
+18,24/12/2024,Miguel Torres,Cali,l,Gris,Hoodie ARGCOL,1,110000,efectivo,Sitio Web,5.0,5
+19,24-01-2025,Camila Ramírez,cali,S,Gris,Camiseta Boxy Fit,1,63000,efectivo,WhatsApp,4.0,4
+20,27/12/2024,Laura Pérez,CALI,m,Verde militar,Camiseta Oversize,1,55000,efectivo,instagram,,2
+21,11-03-2025,Santiago García,Cartagena ,,Negro,Camiseta Boxy Fit,1,55000,transferencia,instagram,5.0,2
+22,03-03-2025,Julián García,medellin,M,Verde militar,Camiseta Boxy Fit,1,58000,NEQUI,instagram,5.0,4
+23,2024-11-02,Juan López,Barranquilla,s,Blanco,Camiseta Boxy Fit,1,60000,transferencia,WHATSAPP,5.0,2
+24,02-01-2025,Camila Torres,CARTAGENA,s,Blanco,Hoodie ARGCOL,1,110000,NEQUI,Sitio web,5.0,2
+25,23-02-2025,Daniela Gómez,BARRANQUILLA,S,Blanco,Camiseta Boxy Fit,1,58000,NEQUI,WhatsApp,5.0,3
+26,12-11-2024,Camila García,Bogotá,S,Blanco,Gorra Streetwear,1,540000,Efectivo,Sitio Web,2.0,1
+27,2025-01-21,Laura Pérez,medellin,,Negro,Gorra Streetwear,1,45000,Efectivo,sitio web,4.0,2
+28,2025-02-20,Juan Torres,Bogota D.C.,xl,Gris,Hoodie ARGCOL,2,112000,transferencia,Instagram,5.0,3
+29,11/02/2025,Juan Torres,Medellín,m,Gris,Camiseta Boxy Fit,1,55000,Efectivo,Sitio Web,5.0,3
+30,2024-12-06,Juan Ramírez,BARRANQUILLA,m,Gris,Gorra Streetwear,1,45000,Transferencia,Whatsapp,5.0,3
+31,12-12-2024,Mariana Pérez,cali,XL,Blanco,Hoodie ARGCOL,2,107000,,sitio web,5.0,4
+32,28/03/2025,Sara López,Bogota D.C.,l,Beige,Camiseta Oversize,2,57000,Efectivo,sitio web,4.0,1
+33,02-03-2025,Juan Rodríguez,Cartagena,S,Negro,Camiseta Boxy Fit,1,55000,,INSTAGRAM,4.0,1
+34,2025-02-03,Julián García,medellín,m,Blanco,Gorra Streetwear,1,45000,transferencia,sitio web,4.0,3
+35,28-03-2025,Mariana López,medellín,m,Gris,Camiseta Boxy Fit,2,63000,NEQUI,instagram,5.0,4
+36,2025-01-22,Valentina Martínez,Bogota D.C.,s,Negro,Gorra Streetwear,1,50000,NEQUI,INSTAGRAM,5.0,2
+37,21-03-2025,Valentina Gómez,BOGOTA,m,Gris,Hoodie ARGCOL,2,110000,Nequi,Instagram,5.0,3
+38,30-11-2024,David López,Cali,m,Negro,Gorra Streetwear,2,42000,transferencia,sitio web,3.0,3
+39,30/03/2025,Mariana García,Medellin ,l,Gris,Camiseta Oversize,1,55000,Nequi,Instagram,5.0,3
+40,28/02/2025,Daniela Torres,,s,Negro,Gorra Streetwear,1,45000,NEQUI,INSTAGRAM,5.0,4
+41,2025-02-12,Sara Ramírez,medellin,M,Blanco,Gorra Streetwear,1,47000,transferencia,Whatsapp,4.0,2
+42,03/01/2025,Julián Torres,cali,,Blanco,Camiseta Oversize,1,57000,TRANSFERENCIA,WHATSAPP,5.0,4
+43,2025-01-13,Julián Rodríguez,Bogotá D.C.,m,Verde militar,Gorra Streetwear,1,42000,efectivo,WhatsApp,4.0,1
+44,07-03-2025,Miguel Pérez,Bogota D.C.,L,Beige,Gorra Streetwear,1,45000,Efectivo,instagram,5.0,4
+45,30-12-2024,Sara Gómez,Bogota D.C.,XL,Blanco,Hoodie ARGCOL,1,115000,TRANSFERENCIA,Sitio web,5.0,3
+46,17/02/2025,David García,cali,XL,Negro,Gorra Streetwear,1,45000,transferencia,sitio web,5.0,4
+47,11/11/2024,Camila Torres,CARTAGENA,S,Gris,Hoodie ARGCOL,1,107000,TRANSFERENCIA,WhatsApp,5.0,1
+48,12-11-2024,Camila García,Bogotá,S,Blanco,Gorra Streetwear,1,540000,Efectivo,Sitio Web,2.0,1
+49,15/12/2024,Julián Rodríguez,CALI,L,Beige,Camiseta Oversize,1,55000,Efectivo,Instagram,5.0,1
+50,2025-03-18,Sebastián Torres,MEDELLIN,L,Gris,Gorra Streetwear,1,47000,transferencia,Instagram,4.0,2
+51,2024-11-09,Julián Torres,bogotá,s,Negro,Hoodie ARGCOL,2,112000,Efectivo,sitio web,5.0,5
+52,2024-12-16,Valentina Torres,Barranquilla,Large,Gris,Camiseta Oversize,40,60000,efectivo,WHATSAPP,2.0,5
+53,30/03/2025,Mariana García,Medellin ,l,Gris,Camiseta Oversize,1,55000,Nequi,Instagram,5.0,3
+54,04/02/2025,Sebastián López,cartagena,S,Gris,Gorra Streetwear,1,45000,nequi,Sitio Web,5.0,3
+55,08-03-2025,Julián Gómez,cali,m,Verde militar,Gorra Streetwear,1,47000,Transferencia,Sitio web,5.0,4
+56,02-02-2025,Isabella Pérez,medellín,Large,Blanco,Gorra Streetwear,1,45000,Nequi,WhatsApp,5.0,4
+57,18/03/2025,Andrés Torres,CARTAGENA,XL,Blanco,Hoodie ARGCOL,1,115000,NEQUI,INSTAGRAM,,3
+58,2024-12-29,Andrés Martínez,barranquilla,xl,Negro,Gorra Streetwear,1,42000,transferencia,whatsapp,3.0,3
+59,07-02-2025,Mariana Torres,Bogotá,L,Gris,Gorra Streetwear,1,45000,Efectivo,INSTAGRAM,5.0,3
+60,2024-12-24,Mariana Gómez,barranquilla,M,Gris,Hoodie ARGCOL,1,110000,nequi,Whatsapp,5.0,3
+61,2025-01-12,Paula Rodríguez,Cali,M,Beige,Gorra Streetwear,1,45000,transferencia,whatsapp,5.0,3
+62,22-02-2025,Kevin Rodríguez,medellín,s,Negro,Camiseta Oversize,1,55000,TRANSFERENCIA,Instagram,4.0,2
+63,2025-03-25,David García,BARRANQUILLA,S,Negro,Hoodie ARGCOL,1,110000,transferencia,Whatsapp,5.0,3
+64,08-11-2024,Sebastián López,Bogotá,M,Gris,Camiseta Boxy Fit,1,60000,transferencia,Sitio web,5.0,4
+65,2025-02-21,Isabella Torres,bogota,Xl,Beige,Camiseta Oversize,1,57000,NEQUI,WhatsApp,5.0,3
+66,05-12-2024,Mariana Torres,cali,xl,Beige,Gorra Streetwear,1,45000,nequi,Sitio web,3.0,3
+67,23/02/2025,Santiago García,BARRANQUILLA,m,Negro,Camiseta Boxy Fit,1,55000,nequi,WHATSAPP,3.0,5
+68,01-01-2025,Valentina Gómez,Cartagena ,m,Verde militar,Camiseta Boxy Fit,2,63000,efectivo,WhatsApp,4.0,4
+69,14-03-2025,Camila Gómez,MEDELLIN,s,Gris,Hoodie ARGCOL,1,107000,efectivo,whatsapp,5.0,1
+70,06/01/2025,Julián Ramírez,Cartagena ,xl,Gris,Hoodie ARGCOL,2,112000,NEQUI,Whatsapp,4.0,3
+71,05-11-2024,Sebastián Martínez,Medellín,S,Gris,Hoodie ARGCOL,1,107000,efectivo,Sitio web,4.0,2
+72,21/03/2025,David Torres,Cartagena,m,Verde militar,Camiseta Boxy Fit,1,63000,Transferencia,sitio web,5.0,4
+73,2024-12-22,Sara Torres,BARRANQUILLA,M,Beige,Hoodie ARGCOL,1,-45000,NEQUI,instagram,5.0,2
+74,25/02/2025,Kevin Rodríguez,Bogota D.C.,Large,Beige,Gorra Streetwear,1,47000,Efectivo,INSTAGRAM,5.0,2
+75,15-11-2024,Sebastián Rodríguez,medellín,Xl,Gris,Gorra Streetwear,1,45000,Nequi,whatsapp,3.0,2
+76,,Sebastián Martínez,CALI,s,Blanco,Gorra Streetwear,1,45000,transferencia,Instagram,4.0,3
+77,2024-11-28,Valentina Martínez,Medellín,S,Blanco,Hoodie ARGCOL,2,107000,,whatsapp,7.0,4
+78,2024-12-11,Kevin Gómez,Cartagena ,M,Gris,Hoodie ARGCOL,1,110000,TRANSFERENCIA,sitio web,3.0,4
+79,14/01/2025,Santiago Pérez,Bogotá D.C.,Large,Gris,Gorra Streetwear,1,45000,NEQUI,Whatsapp,5.0,1
+80,08-11-2024,Juan Martínez,medellin,xl,Gris,Camiseta Oversize,1,52000,nequi,WhatsApp,3.0,4
+81,06-02-2025,Mariana Gómez,,XL,Verde militar,Hoodie ARGCOL,2,110000,nequi,Sitio Web,5.0,1
+82,05-03-2025,Andrés Gómez,Cali,m,Gris,Gorra Streetwear,3,50000,,Whatsapp,5.0,1
+83,2025-01-10,Juan Martínez,,l,Negro,Hoodie ARGCOL,1,107000,transferencia,whatsapp,5.0,30
+84,17/12/2024,Valentina Martínez,BARRANQUILLA,M,Blanco,Hoodie ARGCOL,2,115000,transferencia,Whatsapp,4.0,1
+85,03-03-2025,Valentina Torres,cartagena,L,Gris,Gorra Streetwear,1,47000,NEQUI,instagram,5.0,4
+86,2025-02-15,Santiago López,bogotá,M,Blanco,Gorra Streetwear,2,45000,nequi,INSTAGRAM,5.0,4
+87,2025-02-03,Isabella López,CALI,s,Verde militar,Camiseta Boxy Fit,1,60000,nequi,WHATSAPP,4.0,4
+88,06-01-2025,David García,CALI,l,Gris,Hoodie ARGCOL,2,110000,Nequi,instagram,4.0,1
+89,31-03-2025,Daniela Pérez,Bogotá D.C.,S,Negro,Camiseta Boxy Fit,1,60000,NEQUI,whatsapp,,3
+90,2024-12-05,Valentina Rodríguez,CARTAGENA,M,Negro,Gorra Streetwear,1,42000,TRANSFERENCIA,instagram,5.0,3
+91,19-11-2024,Miguel Rodríguez,Bogotá D.C.,s,Blanco,Hoodie ARGCOL,2,115000,Efectivo,sitio web,5.0,1
+92,2025-02-22,Camila López,Bogota D.C.,S,Negro,Camiseta Oversize,1,55000,Efectivo,sitio web,4.0,4
+93,2025-02-25,Santiago Ramírez,Cartagena ,xl,Beige,Gorra Streetwear,1,42000,Transferencia,instagram,4.0,2
+94,24-02-2025,Sebastián García,CARTAGENA,XL,Gris,Camiseta Oversize,2,55000,transferencia,instagram,4.0,2
+95,26-12-2024,Juan Torres,barranquilla,m,Negro,Gorra Streetwear,1,45000,NEQUI,Sitio web,5.0,3
+96,29-11-2024,Camila García,Medellin ,M,Gris,Gorra Streetwear,1,47000,efectivo,whatsapp,4.0,2
+97,19-12-2024,Mariana Rodríguez,bogotá,m,Gris,Gorra Streetwear,1,42000,Nequi,Whatsapp,,2
+98,,Paula García,Cartagena ,M,Blanco,Gorra Streetwear,1,45000,efectivo,WHATSAPP,4.0,5
+99,2025-01-14,Valentina López,cali,L,Verde militar,Camiseta Boxy Fit,3,58000,Nequi,Sitio web,3.0,4
+100,29/01/2025,Paula Gómez,BARRANQUILLA,Large,Blanco,Gorra Streetwear,2,42000,transferencia,sitio web,5.0,3
+101,2025-02-12,Daniela Gómez,bogota,M,Beige,Hoodie ARGCOL,1,112000,transferencia,Whatsapp,5.0,3
+102,19-02-2025,Miguel López,BOGOTA,s,Blanco,Hoodie ARGCOL,1,110000,efectivo,sitio web,4.0,45
+103,2025-03-10,Andrés López,Barranquilla,L,Verde militar,Gorra Streetwear,1,47000,nequi,Sitio web,5.0,4
+104,2024-12-26,Sebastián Torres,Bogotá,l,Blanco,Camiseta Oversize,2,60000,efectivo,whatsapp,5.0,1
+105,27-03-2025,Valentina Ramírez,medellín,m,Blanco,Hoodie ARGCOL,2,115000,nequi,Instagram,4.0,2
+106,27/02/2025,Andrés Ramírez,Medellín,Large,Blanco,Camiseta Boxy Fit,1,55000,Efectivo,sitio web,5.0,1
+107,14/12/2024,Laura García,bogotá,Large,Beige,Gorra Streetwear,1,45000,Efectivo,Sitio Web,5.0,5
+108,2025-02-03,Isabella López,CALI,s,Verde militar,Camiseta Boxy Fit,1,60000,nequi,WHATSAPP,4.0,4
+109,20-03-2025,Daniela Rodríguez,bogotá,m,Negro,Camiseta Boxy Fit,1,55000,TRANSFERENCIA,Sitio web,5.0,2
+110,2025-03-11,Daniela López,,M,Beige,Hoodie ARGCOL,1,110000,Nequi,Instagram,5.0,2
+111,2024-12-25,Valentina Martínez,CARTAGENA,Xl,Blanco,Camiseta Oversize,1,55000,NEQUI,sitio web,5.0,5
+112,01-01-2025,Santiago Rodríguez,CARTAGENA,,Beige,Camiseta Oversize,1,55000,Transferencia,Whatsapp,4.0,2
+113,06-12-2024,Kevin García,barranquilla,Large,Negro,Hoodie ARGCOL,1,107000,efectivo,instagram,4.0,3
+114,2024-11-18,Santiago Martínez,Cartagena,m,Blanco,Camiseta Boxy Fit,1,55000,NEQUI,instagram,2.0,5
+115,21/02/2025,Julián Rodríguez,Bogotá,xl,Negro,Camiseta Boxy Fit,1,55000,Efectivo,INSTAGRAM,,3
+116,12/12/2024,Daniela Ramírez,Barranquilla,xl,Beige,Camiseta Boxy Fit,2,63000,TRANSFERENCIA,sitio web,2.0,5
+117,2024-12-27,Sebastián Ramírez,Cali,L,Beige,Camiseta Oversize,3,57000,nequi,Sitio Web,5.0,2
+118,2025-01-09,Daniela Torres,Medellín,xl,Blanco,Camiseta Boxy Fit,1,63000,Efectivo,WhatsApp,5.0,1
+119,16-11-2024,,Bogota D.C.,M,Gris,Camiseta Boxy Fit,1,55000,efectivo,INSTAGRAM,3.0,5
+120,2025-02-09,Santiago López,Cali,m,Blanco,Camiseta Oversize,1,52000,transferencia,sitio web,5.0,3
+121,05/11/2024,Sara Gómez,,m,Verde militar,Camiseta Oversize,1,60000,NEQUI,instagram,5.0,2
+122,2025-01-10,Miguel Pérez,Cali,xl,Negro,Gorra Streetwear,3,42000,Transferencia,sitio web,4.0,1
+123,16-02-2025,Sara Gómez,CARTAGENA,M,Gris,Hoodie ARGCOL,1,110000,Transferencia,instagram,3.0,2
+124,2025-03-09,Juan Gómez,cali,xl,Verde militar,Gorra Streetwear,1,50000,NEQUI,Whatsapp,2.0,3
+125,08-11-2024,Sara Martínez,,m,Blanco,Camiseta Boxy Fit,1,58000,Efectivo,INSTAGRAM,4.0,3
+126,2025-01-20,Andrés Martínez,Barranquilla,S,Negro,Camiseta Oversize,1,55000,TRANSFERENCIA,whatsapp,4.0,3
+127,24-03-2025,Juan Ramírez,CALI,s,Gris,Camiseta Oversize,3,60000,nequi,instagram,,2
+128,2024-11-09,Juan Torres,Cartagena,S,Gris,Hoodie ARGCOL,1,107000,transferencia,WhatsApp,3.0,5
+129,18-11-2024,Valentina García,Cali,xl,Blanco,Gorra Streetwear,2,45000,Efectivo,Instagram,,3
+130,2025-03-05,Santiago López,BOGOTA,Xl,Negro,Camiseta Oversize,1,55000,TRANSFERENCIA,instagram,5.0,3
+131,2025-03-08,Isabella García,cali,m,Negro,Hoodie ARGCOL,2,112000,Transferencia,Instagram,4.0,4
+132,2025-03-15,Sara Pérez,Medellin ,L,Beige,Camiseta Boxy Fit,2,58000,nequi,Instagram,5.0,3
+133,13/03/2025,Daniela López,Bogotá,M,Beige,Camiseta Boxy Fit,1,58000,TRANSFERENCIA,instagram,5.0,3
+134,2025-01-11,Camila García,cali,,Verde militar,Camiseta Boxy Fit,1,58000,TRANSFERENCIA,Sitio web,5.0,3
+135,2024-11-28,Camila Martínez,bogota,Large,Gris,Hoodie ARGCOL,2,115000,NEQUI,Instagram,5.0,4
+136,2025-01-16,Mariana Pérez,Bogotá,l,Gris,Camiseta Oversize,1,55000,Efectivo,INSTAGRAM,5.0,1
+137,20/01/2025,Sara Torres,Bogotá,s,Gris,Gorra Streetwear,1,45000,Transferencia,Sitio Web,5.0,3
+138,31/03/2025,Sebastián Torres,MEDELLIN,M,Verde militar,Camiseta Boxy Fit,1,55000,Nequi,whatsapp,5.0,3
+139,27-12-2024,Andrés López,Medellin ,s,Beige,Camiseta Oversize,2,55000,efectivo,INSTAGRAM,4.0,2
+140,07/03/2025,Sara Ramírez,cali,Large,Verde militar,Hoodie ARGCOL,1,115000,Transferencia,INSTAGRAM,4.0,3
+141,2025-01-01,Camila López,medellín,S,Negro,Camiseta Oversize,1,660000,efectivo,Sitio web,5.0,2
+142,2025-01-01,Laura Ramírez,Cartagena ,m,Negro,Hoodie ARGCOL,1,110000,transferencia,WhatsApp,3.0,3
+143,2025-02-11,Paula Gómez,Medellín,S,Blanco,Gorra Streetwear,2,42000,Efectivo,Instagram,5.0,3
+144,09-02-2025,Isabella Rodríguez,barranquilla,L,Gris,Gorra Streetwear,1,42000,nequi,sitio web,5.0,3
+145,2025-01-14,Sebastián López,,xl,Gris,Hoodie ARGCOL,2,115000,efectivo,WHATSAPP,5.0,1
+146,2025-01-23,Sara Pérez,Barranquilla,L,Blanco,Gorra Streetwear,2,47000,Efectivo,WHATSAPP,3.0,3
+147,04-03-2025,Kevin López,Barranquilla,m,Blanco,Camiseta Boxy Fit,1,58000,Transferencia,INSTAGRAM,5.0,2
+148,,Mariana Ramírez,Barranquilla,S,Verde militar,Gorra Streetwear,1,47000,Nequi,Instagram,5.0,1
+149,2024-12-09,Mariana Rodríguez,CALI,Xl,Beige,Camiseta Boxy Fit,1,58000,Efectivo,WhatsApp,,4
+150,23/02/2025,Sara Martínez,bogotá,M,Negro,Gorra Streetwear,1,47000,NEQUI,instagram,5.0,2
+151,18/02/2025,,Medellín,S,Gris,Camiseta Boxy Fit,1,58000,Efectivo,WhatsApp,5.0,4
+152,25-03-2025,Sara Gómez,Cartagena ,L,Beige,Hoodie ARGCOL,60,107000,Efectivo,Sitio Web,3.0,2
+153,2025-01-31,Sara Ramírez,Medellín,xl,Blanco,Camiseta Oversize,2,55000,TRANSFERENCIA,instagram,4.0,50
+154,24/03/2025,Miguel Martínez,MEDELLIN,m,Gris,Hoodie ARGCOL,1,110000,NEQUI,instagram,5.0,3
+155,06-01-2025,Paula Ramírez,Cartagena ,m,Verde militar,Gorra Streetwear,2,50000,NEQUI,Sitio Web,5.0,3
+156,28/02/2025,Kevin Ramírez,CALI,Large,Negro,Camiseta Oversize,2,60000,,INSTAGRAM,4.0,1
+157,19/03/2025,Julián García,Barranquilla,L,Gris,Gorra Streetwear,1,45000,transferencia,whatsapp,4.0,3
+158,05-12-2024,David Gómez,bogotá,m,Beige,Gorra Streetwear,1,45000,Transferencia,Whatsapp,,3
+159,21-12-2024,Santiago García,cali,s,Beige,Gorra Streetwear,2,45000,nequi,Whatsapp,4.0,3
+160,2024-12-28,Miguel García,Barranquilla,XL,Blanco,Hoodie ARGCOL,2,110000,TRANSFERENCIA,Whatsapp,5.0,2
+161,2025-01-08,Paula López,Bogota D.C.,l,Beige,Hoodie ARGCOL,1,115000,efectivo,Sitio web,5.0,2
+162,,Santiago Pérez,cartagena,Xl,Negro,Camiseta Oversize,1,60000,transferencia,Sitio web,5.0,2
+163,2025-03-06,Miguel Pérez,BOGOTA,M,Verde militar,Camiseta Boxy Fit,1,58000,Nequi,instagram,,4
+164,2024-11-28,Isabella Pérez,Bogotá,Xl,Blanco,Hoodie ARGCOL,1,110000,Transferencia,Sitio Web,5.0,2
+165,2024-11-04,Laura Gómez,CALI,Xl,Blanco,Gorra Streetwear,1,45000,nequi,INSTAGRAM,5.0,3
+166,08-02-2025,Isabella Martínez,medellín,l,Beige,Camiseta Oversize,2,52000,TRANSFERENCIA,Sitio Web,4.0,3
+167,24-02-2025,Santiago Martínez,cartagena,l,Gris,Hoodie ARGCOL,1,107000,Efectivo,whatsapp,5.0,2
+168,10-01-2025,Julián Martínez,Barranquilla,Xl,Blanco,Gorra Streetwear,1,50000,TRANSFERENCIA,sitio web,5.0,2
+169,2025-03-25,Isabella Rodríguez,,XL,Gris,Camiseta Boxy Fit,2,60000,Nequi,Sitio web,5.0,1
+170,23/12/2024,David Martínez,Barranquilla,M,Beige,Hoodie ARGCOL,1,110000,efectivo,Instagram,,4
+171,2025-02-19,Julián Gómez,medellin,m,Gris,Gorra Streetwear,2,45000,TRANSFERENCIA,Instagram,5.0,1
+172,2025-02-09,Julián López,Barranquilla,l,Blanco,Gorra Streetwear,1,45000,TRANSFERENCIA,Whatsapp,5.0,4
+173,2025-03-27,Daniela Torres,BARRANQUILLA,XL,Gris,Hoodie ARGCOL,1,115000,Transferencia,Sitio Web,2.0,3
+174,08-03-2025,Daniela Martínez,medellin,l,Gris,Camiseta Boxy Fit,1,58000,efectivo,WHATSAPP,5.0,3
+175,10/01/2025,Kevin Martínez,medellín,S,Verde militar,Camiseta Oversize,2,52000,Efectivo,whatsapp,1.0,3
+176,2025-01-25,David Ramírez,Cali,S,Gris,Hoodie ARGCOL,25,110000,Efectivo,Sitio Web,,1
+177,02/11/2024,Daniela Pérez,Medellín,XL,Beige,Gorra Streetwear,1,42000,Efectivo,Whatsapp,5.0,1
+178,22/01/2025,Sebastián Gómez,Cartagena,Large,Blanco,Gorra Streetwear,1,50000,transferencia,Whatsapp,4.0,4
+179,03/12/2024,Juan Torres,Cali,xl,Gris,Hoodie ARGCOL,1,112000,TRANSFERENCIA,INSTAGRAM,5.0,2
+180,12/02/2025,Paula Martínez,bogota,xl,Beige,Gorra Streetwear,1,45000,efectivo,Instagram,5.0,2
+181,17-02-2025,Sara Pérez,cartagena,s,Verde militar,Camiseta Boxy Fit,2,696000,Efectivo,INSTAGRAM,,2
+182,25-03-2025,David Gómez,bogota,Large,Blanco,Hoodie ARGCOL,3,110000,efectivo,Instagram,5.0,2
+183,12-01-2025,Laura Rodríguez,medellín,L,Verde militar,Camiseta Oversize,1,-58000,transferencia,Sitio Web,,3
+184,21-02-2025,Daniela Gómez,cartagena,XL,Blanco,Gorra Streetwear,1,42000,nequi,Instagram,5.0,2
+185,11-03-2025,Kevin Ramírez,Cartagena ,XL,Negro,Camiseta Boxy Fit,1,58000,Efectivo,Whatsapp,4.0,2
+186,2024-11-11,Valentina Pérez,Medellin ,S,Beige,Gorra Streetwear,2,45000,nequi,whatsapp,4.0,2
+187,16-03-2025,Paula Pérez,Bogota D.C.,l,Verde militar,Camiseta Boxy Fit,1,63000,nequi,Sitio web,5.0,2
+188,2025-03-06,,Barranquilla,,Blanco,Hoodie ARGCOL,1,115000,Efectivo,instagram,4.0,2
+189,17/03/2025,David Rodríguez,bogota,XL,Beige,Gorra Streetwear,1,50000,Transferencia,WHATSAPP,5.0,4
+190,30-12-2024,Juan López,Cali,s,Gris,Hoodie ARGCOL,1,110000,transferencia,WHATSAPP,4.0,1
+191,2025-01-09,Paula Gómez,Cali,s,Negro,Hoodie ARGCOL,2,107000,efectivo,instagram,5.0,3
+192,2025-03-06,Isabella Gómez,Barranquilla,S,Verde militar,Camiseta Boxy Fit,1,63000,efectivo,Sitio Web,5.0,2
+193,2024-11-12,Kevin Torres,cartagena,s,Gris,Gorra Streetwear,1,50000,efectivo,sitio web,5.0,3
+194,23/02/2025,David Torres,cali,S,Beige,Gorra Streetwear,1,50000,Efectivo,Sitio web,4.0,2
+195,28/02/2025,Paula Rodríguez,CALI,l,Blanco,Gorra Streetwear,2,42000,efectivo,Instagram,1.0,2
+196,2025-02-01,,medellín,m,Gris,Camiseta Boxy Fit,2,58000,Efectivo,INSTAGRAM,2.0,3
+197,2024-12-16,Santiago López,cali,l,Gris,Camiseta Boxy Fit,1,58000,NEQUI,Sitio Web,4.0,4
+198,21-12-2024,David García,BARRANQUILLA,L,Verde militar,Gorra Streetwear,2,42000,nequi,WhatsApp,5.0,3
+199,02-03-2025,Santiago Gómez,BOGOTA,M,Gris,Gorra Streetwear,1,47000,transferencia,Sitio Web,5.0,2
+200,2024-11-07,Camila Gómez,Cartagena,xl,Beige,Camiseta Oversize,1,55000,NEQUI,Sitio web,4.0,3
+201,17/01/2025,Camila Rodríguez,CALI,Large,Gris,Gorra Streetwear,1,45000,efectivo,Whatsapp,2.0,5
+202,2024-11-15,Camila Pérez,Bogotá,L,Verde militar,Camiseta Oversize,1,60000,Nequi,Sitio web,4.0,3
+203,28-01-2025,Isabella Pérez,cartagena,xl,Verde militar,Camiseta Boxy Fit,1,55000,nequi,sitio web,4.0,3
+204,21/02/2025,Camila Pérez,CALI,m,Verde militar,Hoodie ARGCOL,1,110000,nequi,WhatsApp,4.0,1
+205,09-02-2025,Isabella Rodríguez,barranquilla,L,Gris,Gorra Streetwear,1,42000,nequi,sitio web,5.0,3
+206,2025-03-03,Juan López,Cali,M,Negro,Gorra Streetwear,1,47000,TRANSFERENCIA,sitio web,5.0,4
+207,10/12/2024,David Gómez,bogotá,l,Gris,Camiseta Boxy Fit,1,58000,Efectivo,INSTAGRAM,5.0,4
+208,2025-03-21,Valentina Ramírez,cali,m,Negro,Gorra Streetwear,1,50000,Nequi,Sitio Web,,2
+209,10-12-2024,Paula Gómez,Cali,s,Negro,Camiseta Oversize,2,57000,Efectivo,whatsapp,4.0,3
+210,25-01-2025,Paula López,Cali,l,Negro,Gorra Streetwear,2,42000,,INSTAGRAM,4.0,2
+211,31-03-2025,Santiago Torres,medellin,M,Beige,Camiseta Oversize,1,52000,Efectivo,Sitio Web,5.0,2
+212,2024-12-18,Sebastián Gómez,Medellin ,xl,Blanco,Camiseta Boxy Fit,1,696000,NEQUI,INSTAGRAM,4.0,4
+213,2024-11-04,Laura Gómez,CALI,Xl,Blanco,Gorra Streetwear,1,45000,nequi,INSTAGRAM,5.0,3
+214,16-02-2025,Juan Rodríguez,cartagena,s,Negro,Hoodie ARGCOL,1,1320000,,sitio web,9.0,2
+215,26/03/2025,Juan García,Barranquilla,s,Beige,Hoodie ARGCOL,1,115000,TRANSFERENCIA,Sitio web,4.0,4
+216,03/02/2025,Santiago López,BARRANQUILLA,S,Blanco,Hoodie ARGCOL,1,112000,efectivo,Sitio Web,5.0,3
+217,2025-03-04,Paula García,barranquilla,s,Blanco,Camiseta Boxy Fit,1,58000,transferencia,Sitio Web,5.0,4
+218,23-12-2024,Laura Pérez,medellín,xl,Beige,Camiseta Boxy Fit,1,63000,Nequi,Instagram,5.0,4
+219,2025-01-14,,bogota,M,Blanco,Camiseta Boxy Fit,1,58000,Transferencia,Sitio Web,5.0,2
+220,14-11-2024,Laura Rodríguez,BOGOTA,,Blanco,Hoodie ARGCOL,2,107000,nequi,Sitio web,4.0,2
+221,18-11-2024,Santiago García,Cali,m,Negro,Camiseta Boxy Fit,1,58000,efectivo,instagram,5.0,3
+222,21-03-2025,Valentina Gómez,BOGOTA,m,Gris,Hoodie ARGCOL,2,110000,Nequi,Instagram,5.0,3
+223,15-12-2024,Laura Gómez,bogota,s,Beige,Camiseta Oversize,1,55000,nequi,Sitio Web,3.0,1
+224,15-11-2024,Daniela Rodríguez,CARTAGENA,m,Verde militar,Hoodie ARGCOL,1,112000,TRANSFERENCIA,Sitio web,5.0,3
+225,31-01-2025,Paula Martínez,,Large,Blanco,Camiseta Boxy Fit,1,55000,efectivo,WHATSAPP,5.0,1
+226,28-03-2025,Sebastián Pérez,MEDELLIN,XL,Negro,Camiseta Boxy Fit,2,55000,Transferencia,Sitio Web,5.0,1
+227,05/11/2024,Paula Ramírez,Cartagena ,XL,Blanco,Gorra Streetwear,2,45000,nequi,Sitio Web,5.0,3
+228,31-03-2025,Daniela Pérez,Bogotá D.C.,S,Negro,Camiseta Boxy Fit,1,60000,NEQUI,whatsapp,,3
+229,2024-11-01,Paula Ramírez,CALI,S,Blanco,Hoodie ARGCOL,1,110000,TRANSFERENCIA,WhatsApp,4.0,2
+230,14-12-2024,Sara Ramírez,bogota,Large,Gris,Gorra Streetwear,1,45000,TRANSFERENCIA,Sitio Web,2.0,3
+231,01-12-2024,Kevin López,Cali,M,Gris,Camiseta Boxy Fit,1,60000,Transferencia,INSTAGRAM,4.0,2
+232,02/01/2025,Paula Rodríguez,MEDELLIN,M,Negro,Gorra Streetwear,1,45000,TRANSFERENCIA,Sitio web,3.0,2
+233,2024-12-08,Paula López,BARRANQUILLA,m,Verde militar,Gorra Streetwear,1,45000,transferencia,Whatsapp,4.0,3
+234,04-11-2024,Miguel Torres,bogota,,Verde militar,Gorra Streetwear,2,50000,NEQUI,Whatsapp,4.0,4
+235,18/12/2024,David García,bogotá,xl,Negro,Camiseta Oversize,1,52000,efectivo,INSTAGRAM,5.0,3
+236,06-02-2025,Santiago Ramírez,bogota,m,Gris,Camiseta Oversize,2,60000,Nequi,sitio web,5.0,2
+237,22/03/2025,Daniela López,Barranquilla,Large,Gris,Hoodie ARGCOL,1,115000,Efectivo,sitio web,5.0,4
+238,12-01-2025,Mariana Torres,Bogota D.C.,l,Verde militar,Hoodie ARGCOL,1,115000,nequi,whatsapp,5.0,2
+239,2025-02-24,Isabella López,,Xl,Gris,Camiseta Boxy Fit,1,63000,TRANSFERENCIA,Whatsapp,,3
+240,03/11/2024,Julián Rodríguez,MEDELLIN,xl,Negro,Gorra Streetwear,2,42000,Nequi,sitio web,5.0,3
+241,21/12/2024,Camila García,Medellin ,l,Gris,Camiseta Oversize,1,60000,efectivo,instagram,3.0,3
+242,29-01-2025,Sara Martínez,Cartagena ,Large,Blanco,Camiseta Oversize,1,55000,transferencia,Sitio web,5.0,2
+243,20/02/2025,Laura Ramírez,Barranquilla,xl,Gris,Camiseta Oversize,1,55000,Efectivo,WhatsApp,4.0,3
+244,07-02-2025,Valentina Rodríguez,CALI,l,Blanco,Hoodie ARGCOL,1,112000,efectivo,WhatsApp,5.0,2
+245,2025-03-17,Paula Rodríguez,Medellin ,S,Beige,Camiseta Boxy Fit,1,58000,Efectivo,instagram,4.0,1
+246,27-12-2024,Paula López,Bogota D.C.,Xl,Blanco,Hoodie ARGCOL,1,110000,Efectivo,Sitio web,-1.0,3
+247,28/03/2025,Sara López,Bogota D.C.,l,Beige,Camiseta Oversize,2,57000,Efectivo,sitio web,4.0,1
+248,09/01/2025,Daniela García,BARRANQUILLA,M,Blanco,Camiseta Oversize,1,60000,NEQUI,sitio web,5.0,2
+249,2024-11-20,Isabella Pérez,CARTAGENA,xl,Beige,Hoodie ARGCOL,1,112000,NEQUI,instagram,4.0,2
+250,07/02/2025,Isabella Ramírez,cartagena,m,Negro,Camiseta Oversize,2,52000,nequi,WHATSAPP,5.0,2
+251,17-12-2024,David García,Cartagena,S,Verde militar,Camiseta Oversize,1,55000,TRANSFERENCIA,Instagram,,3
+252,03/12/2024,Camila Torres,cartagena,XL,Blanco,Gorra Streetwear,1,45000,NEQUI,WhatsApp,3.0,3
+253,17-12-2024,Sebastián Torres,bogota,M,Gris,Camiseta Boxy Fit,2,63000,Transferencia,instagram,3.0,1
+254,07-12-2024,Laura García,medellín,M,Verde militar,Gorra Streetwear,1,45000,Nequi,sitio web,4.0,1
+255,02-01-2025,Sara Rodríguez,cartagena,L,Negro,Camiseta Oversize,1,55000,TRANSFERENCIA,WHATSAPP,1.0,4
+256,09/12/2024,Laura García,barranquilla,XL,Verde militar,Camiseta Oversize,1,57000,Transferencia,WHATSAPP,5.0,3
+257,27-01-2025,Paula Martínez,CARTAGENA,M,Gris,Gorra Streetwear,1,47000,nequi,Whatsapp,5.0,3
+258,17-03-2025,Paula Ramírez,Barranquilla,S,Gris,Hoodie ARGCOL,1,107000,transferencia,INSTAGRAM,4.0,2
+259,2024-11-12,Juan Martínez,Barranquilla,xl,Negro,Hoodie ARGCOL,1,107000,transferencia,whatsapp,5.0,3
+260,29/11/2024,Valentina Rodríguez,Bogotá,Large,Blanco,Camiseta Boxy Fit,1,58000,Efectivo,Sitio Web,5.0,2
+261,15/01/2025,Isabella Ramírez,medellín,s,Beige,Camiseta Boxy Fit,1,63000,Transferencia,Whatsapp,4.0,2
+262,2025-02-16,Julián Torres,Cali,m,Beige,Camiseta Boxy Fit,2,63000,nequi,INSTAGRAM,4.0,2
+263,,Sebastián Gómez,medellin,L,Gris,Gorra Streetwear,3,45000,transferencia,Instagram,2.0,3
+264,23/12/2024,Santiago Torres,Bogotá,Large,Negro,Gorra Streetwear,1,50000,TRANSFERENCIA,whatsapp,5.0,4
+265,13/03/2025,Isabella García,Medellín,M,Negro,Hoodie ARGCOL,1,112000,NEQUI,Sitio web,3.0,3
+266,2025-03-15,Santiago Martínez,,L,Blanco,Gorra Streetwear,3,45000,,INSTAGRAM,,1
+267,09/01/2025,Kevin Torres,bogotá,Large,Verde militar,Gorra Streetwear,1,45000,efectivo,instagram,4.0,4
+268,02/01/2025,Andrés Pérez,Medellín,l,Verde militar,Camiseta Boxy Fit,1,58000,Transferencia,sitio web,,1

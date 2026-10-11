@@ -1,0 +1,4 @@
+,lim_inf,lim_sup,n_outliers
+precio_unitario,-43000.0,197000.0,5.0
+cantidad,-0.5,3.5,3.0
+tiempo_entrega_dias,0.5,4.5,14.0

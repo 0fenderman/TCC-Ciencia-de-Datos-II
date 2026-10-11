@@ -1,0 +1,5 @@
+grupo,cantidad,precio_unitario,tiempo_entrega_dias,calificacion,pedidos,pct_ingresos,pct_entrega_rapida
+Estándar,1.0,52680.33,2.74,4.74,122,28.5,41.8
+Premium,1.02,121190.48,2.5,4.52,42,23.4,54.8
+Multiunidad,2.12,70473.68,2.44,4.54,57,37.5,50.9
+Entrega lenta,1.23,65838.71,4.0,2.71,31,10.6,16.1
